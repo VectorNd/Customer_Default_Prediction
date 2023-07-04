@@ -36,10 +36,12 @@
 
 ## Conclusions 
 
-**TOP 20 FEATURES**
+**TOP 20 FEATURES** 
+
 ![featureimportance](https://github.com/VectorNd/Customer_Default_Prediction/assets/111004091/fcefae65-306d-4f1a-9a5a-c42e568d7aab)
 
 **PREDICTIONS DISTRIBUTION**
+
 ![Predictions](https://github.com/VectorNd/Customer_Default_Prediction/assets/111004091/259996ff-61b9-43dd-b4e6-93fe5c3ef1ed)
 
 ## Notebook Links 
